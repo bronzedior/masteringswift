@@ -8,4 +8,5 @@
 import Foundation
 
 //basicExample()
-operatorExample()
+//operatorExample()
+stringExample()
