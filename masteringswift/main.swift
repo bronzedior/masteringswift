@@ -1,0 +1,11 @@
+//
+//  main.swift
+//  masteringswift
+//
+//  Created by Fransiscus Bronzedior Driandonny Noryon on 20/05/26.
+//
+
+import Foundation
+
+print("Hello, World!")
+
