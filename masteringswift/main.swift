@@ -9,4 +9,5 @@ import Foundation
 
 //basicExample()
 //operatorExample()
-stringExample()
+//stringExample()
+collectionExample()
