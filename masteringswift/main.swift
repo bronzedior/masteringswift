@@ -10,4 +10,5 @@ import Foundation
 //basicExample()
 //operatorExample()
 //stringExample()
-collectionExample()
+//collectionExample()
+functionExample()
