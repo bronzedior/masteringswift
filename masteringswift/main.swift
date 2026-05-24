@@ -12,4 +12,5 @@ import Foundation
 //stringExample()
 //collectionExample()
 //functionExample()
-closureExample()
+//closureExample()
+enumExample()
