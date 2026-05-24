@@ -13,4 +13,5 @@ import Foundation
 //collectionExample()
 //functionExample()
 //closureExample()
-enumExample()
+//enumExample()
+structClassExample()
